@@ -1,4 +1,4 @@
 #!/bin/bash
-export GREETINGAPI_ERRMESSAGE="Sorry, but some error have happened"
-export GREETINGAPI_ADDMESSAGE="User added"
-export GREETINGAPI_DELMESSAGE="user deleted"
+export GREETINGAPI_DBURL="jdbc:postgresql://greetingapi-db/greetingdb"
+export GREETINGAPI_DBUSER="greetingdbuser"
+export GREETINGAPI_DBPASS="pass"
